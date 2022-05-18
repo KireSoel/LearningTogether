@@ -1,0 +1,16 @@
+:root{
+
+}
+body{
+    background-color: #ffffff;
+}
+.active{
+    background-color: #4878de;
+}
+video{
+    display: block;
+    margin: 0 auto;
+}
+.lead{
+    font-size: x-large;
+}
